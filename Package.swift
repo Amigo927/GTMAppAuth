@@ -45,7 +45,8 @@ let package = Package(
             name: "GTMAppAuth",
             dependencies: [
                 "GTMSessionFetcherCore",
-                "AppAuthCore"
+                "AppAuthCore",
+                "AppAuth"
             ],
             path: "Source",
             sources: [
